@@ -1,0 +1,22 @@
+
+body {
+    background-image: url("http://s12.favim.com/flow/160417/makeup-brow-hair-nails-Favim.com-4218897.jpeg");
+ background-position: center center;
+    background-size: cover;
+}
+#holder { 
+width:300px; 
+} 
+
+#pic1 { 
+float: left; 
+width: 10px; 
+margin-right: 5px; 
+} 
+
+#pic2 { 
+float: right; 
+width: 10px; 
+margin-left: 5px; 
+} 
+
