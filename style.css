@@ -1,0 +1,23 @@
+
+body {
+ background-position: center center;
+    background-size: cover;
+}
+#holder { 
+width:40px; 
+} 
+
+#pic1 { 
+float: left; 
+width: 10px; 
+margin-right: 5px; 
+} 
+
+#pic2 { 
+float: right; 
+width: 10px; 
+margin-left: 5px; 
+} 
+.p{
+    background-color: yellow;
+}
