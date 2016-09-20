@@ -1,11 +1,16 @@
-
+h1 {
+    color: #EE009B ;
+    font-family: verdana;
+    font-size: 300%;
+}
 body {
     background-image: url("http://s12.favim.com/flow/160417/makeup-brow-hair-nails-Favim.com-4218897.jpeg");
- background-position: center center;
-    background-size: cover;
+    background-color: #EE009B ;
+      background-size: cover;
+}
 }
 #holder { 
-width:300px; 
+width:40px; 
 } 
 
 #pic1 { 
@@ -19,4 +24,6 @@ float: right;
 width: 10px; 
 margin-left: 5px; 
 } 
-
+.p{
+    background-color: yellow;
+}
