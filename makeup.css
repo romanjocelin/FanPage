@@ -1,32 +1,28 @@
 h1 {
     color: #EE009B ;
-    font-family: verdana;
-    line-height: 20px;
-	margin: 30px;
-	padding-bottom: 20px;
-	text-align: justify;
-	width: 140px;
+    background-color: #EE009B ;
+     text-align: center;
+}
+    
+body {
+    background-image: url("https://s-media-cache-ak0.pinimg.com/236x/40/70/5a/40705af0f46275cc2c3404720ff5b922.jpg");
+    background-color: #EE009B ;
    
 }
-body {
-    background-image: url("http://s12.favim.com/flow/160417/makeup-brow-hair-nails-Favim.com-4218897.jpeg");
-    background-color: #EE009B ;
-      background-size: cover;
-}
-#holder { 
+.holder { 
 width:40px; 
 } 
 
 #pic1 { 
-float: left; 
-width: 10px; 
-margin-right: 5px; 
+float: right; 
+width: 300px;
+margin-left:20
 } 
 
 #pic2 { 
-float: right; 
-width: 10px; 
-margin-left: 5px; 
+float: left; 
+width: 130px; 
+margin-left: 20px; 
 } 
 .p{
     background-color: yellow;
