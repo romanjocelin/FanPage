@@ -7,7 +7,12 @@ h1 {
 body {
     background-image: url("https://s-media-cache-ak0.pinimg.com/236x/40/70/5a/40705af0f46275cc2c3404720ff5b922.jpg");
     background-color: #EE009B ;
-   
+    
+   .Ketchup {
+    background-color:#80FF00;
+    color:black;
+    margin: 34px;
+    padding:10px;
 }
 .holder { 
 width:40px; 
