@@ -6,22 +6,41 @@ h1 {
     
 body {
     background-image: url("https://s-media-cache-ak0.pinimg.com/236x/40/70/5a/40705af0f46275cc2c3404720ff5b922.jpg");
-    background-color: #EE009B ;
-    
-   .Ketchup {
-    background-color:#80FF00;
-    color:black;
-    margin: 34px;
-    padding:10px;
+    background-color: #EE009B 
 }
-.holder { 
-width:40px; 
-} 
+    
+ ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #B74157;
+}
 
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+}
+
+.holder {
+    margin: 20px ;
+    padding: 40px ;
+
+}
 #pic1 { 
 float: right; 
 width: 300px;
-margin-left:20
+margin-left:20px;
 } 
 
 #pic2 { 
@@ -29,6 +48,8 @@ float: left;
 width: 130px; 
 margin-left: 20px; 
 } 
-.p{
-    background-color: yellow;
+p #holder {
+    background-color: pink;
+    margin: 40px;
+    padding: 40px;
 }
