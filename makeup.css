@@ -16,6 +16,10 @@ body {
     overflow: hidden;
     background-color: #B74157;
 }
+.pictures {
+   width: 120px;
+   height: 120px;
+}
 
 li {
     float: left;
@@ -33,23 +37,14 @@ li a:hover {
 }
 
 .holder {
-    margin: 20px ;
+    margin: 200px ;
     padding: 40px ;
 
 }
-#pic1 { 
-float: right; 
-width: 300px;
-margin-left:20px;
-} 
 
-#pic2 { 
-float: left; 
-width: 130px; 
-margin-left: 20px; 
-} 
-p #holder {
-    background-color: pink;
-    margin: 40px;
-    padding: 40px;
+p {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
 }
