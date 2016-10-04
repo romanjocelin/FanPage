@@ -2,6 +2,7 @@ h1 {
     color: #EE009B ;
     background-color: #EE009B ;
      text-align: center;
+    font-family: 'Pacifico', cursive;
 }
     
 body {
@@ -17,10 +18,10 @@ body {
     background-color: #B74157;
 }
 .pictures {
-   width: 700px;
-   height: 100px;
-   margin:40px ;
-   padding: 70px ;
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 30px; 
 }
 
 li {
@@ -53,5 +54,5 @@ p {
     margin-bottom:50px;
     border: 1px;
 border: 2px dotted;
-border: medium dashed red;
+border: medium dashed #1CEEA3;
 }
