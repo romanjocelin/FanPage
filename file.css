@@ -3,11 +3,11 @@ h1 {
     background-color: #1CEEA3;
     text-align: center;
     font-family: 'Open Sans Condensed', sans-serif;
-    border: 12px solid red;
+    border: 12px solid #75006E;
 }
     
 body {
-    background-image: url("https://s-media-cache-ak0.pinimg.com/564x/ec/8e/fa/ec8efae7f1055433c2cc82b35246da95.jpg");
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/98/24/24/9824245d7f94b9f412de4dc50d1ab1a3.gif");
     background-color: #1CEEA3;
     background-size: cover;
 }
