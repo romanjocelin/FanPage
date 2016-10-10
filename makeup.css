@@ -3,7 +3,7 @@ h1 {
     background-color: #EE009B ;
      text-align: center;
    font-family: 'Abhaya Libre', serif;
-     border: 12px solid #424242;
+     border: 12px dotted #424242;
 }
     
 body {
@@ -16,7 +16,7 @@ body {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #B74157;
+    background-color: #AE814A;
 }
 .pictures {
    display: block;
@@ -47,14 +47,14 @@ li a:hover {
 }
 
 p {
-    background-color:pink;
+    font-family: 'Oswald', sans-serif;
+    background-color:#AE2C4A;
     padding-top: 50px;
     padding-right: 50px;
     padding-bottom:50px;
     padding-left: 50px;
     margin-top: 50px;
     margin-bottom:50px;
-    border: 1px;
-border: 2px dotted;
-border: medium dashed #1CEEA3;
+    border: 5px dashed #1CEEA3;
+    color:#7CF1E8;
 }
