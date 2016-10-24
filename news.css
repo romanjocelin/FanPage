@@ -3,14 +3,22 @@ h1 {
     background-color: #C43562;
      text-align: center;
    font-family: 'Ruslan Display', cursive;
-     border: 13px dotted #F2F8EF;
+     border: 12px dotted #F2F8EF;
 }
     
 body {
     background-image: url("https://secure.static.tumblr.com/539e15adfbba7dc888c74e784beb3e64/xblnne0/eopnt90gh/tumblr_static_tumblr_static_awk7zlcthewoo8wokskosw0co_640.jpg");
     background-color: #EE009B;
-   
-  
+}
+    
+img{
+    height: 400px;
+    padding:5px;
+    margin: auto;
+}
+
+#kay{
+    padding: 10px;
 }
     
  ul {
