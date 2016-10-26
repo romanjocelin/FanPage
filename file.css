@@ -11,6 +11,20 @@ body {
     background-color: #1CEEA3;
     background-size: cover;
 }
+.container {
+    background-color: mediumvioletred;
+    height:30px;
+}
+.row{
+    background-color: mediumvioletred;
+    height: 600px;
+    
+}
+img{
+    height: 300px;
+    padding:20px;
+   
+}
     
  ul {
     list-style-type: none;
