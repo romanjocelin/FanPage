@@ -3,27 +3,18 @@ h1 {
     background-color: #EE009B ;
      text-align: center;
    font-family: 'Abhaya Libre', serif;
-     border: 12px dotted #424242;
+     border: 13px dotted #424242;
 }
     
 body {
-    background-image: url("https://s-media-cache-ak0.pinimg.com/236x/40/70/5a/40705af0f46275cc2c3404720ff5b922.jpg");
+    background-image: url("/images/arabic.jpg");
     background-color: #EE009B;
+   
 }
-    img {
-    height: 200px;
-    padding:20px;
-    margin: auto;
-    }
-
 .container {
     background-color:  #810037;
 }
 
-#contour{
-padding: 30px;
-background-color: #810037;
-}
     
  ul {
     list-style-type: none;
@@ -32,11 +23,8 @@ background-color: #810037;
     overflow: hidden;
     background-color: #AE814A;
 }
-.pictures {
-   display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height: 30px; 
+img{
+    height: 380px; 
 }
 
 li {
@@ -62,7 +50,7 @@ li a:hover {
 
 p {
     font-family: 'Oswald', sans-serif;
-    background-color:#AE2C4A;
+    background-color:#AE814A;
     padding-top: 50px;
     padding-right: 50px;
     padding-bottom:50px;
@@ -70,5 +58,5 @@ p {
     margin-top: 50px;
     margin-bottom:50px;
     border: 5px dashed #1CEEA3;
-    color:#7CF1E8;
+    color:#8900C4;
 }
