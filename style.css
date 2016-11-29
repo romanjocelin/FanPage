@@ -3,16 +3,13 @@ h1 {
     background-color: #EE009B ;
      text-align: center;
    font-family: 'Abhaya Libre', serif;
-     border: 13px dotted #424242;
+     border: 12px dotted #424242;
 }
     
 body {
     background-image: url("/images/arabic.jpg");
     background-color: #EE009B;
    
-}
-.container {
-    background-color:  #810037;
 }
 
     
@@ -60,3 +57,11 @@ p {
     border: 5px dashed #1CEEA3;
     color:#8900C4;
 }
+
+#col-md-6
+{
+      display: block;
+    margin: 0 auto;
+    text-align: center;  
+}
+
